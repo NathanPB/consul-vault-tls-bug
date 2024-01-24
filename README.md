@@ -1,3 +1,13 @@
+# DISCLAIMER:
+Stupid me confused ``tls`` with ``tsl``
+
+
+
+
+
+
+# Description
+
 This is a repository to reproduce a potential bug on HashiCorp's Consul and Vault.
 
 ## Steps
